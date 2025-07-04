@@ -47,7 +47,7 @@ Classify our customers based on the individual recency, frequency and monetary s
 - **Median Recency by Segment**
      ![Median Recency](img/median-r-by-segment.png)
 
-- **Median Frequ by Segment**
+- **Median Frequency by Segment**
      ![Median Frequency](img/median-f-by-segment.png)
 
 - **Median Recency by Segment**
