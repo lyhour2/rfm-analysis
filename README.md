@@ -43,6 +43,8 @@ Classify our customers based on the individual recency, frequency and monetary s
 - **Customer Segments Distribution**
      ![RFM Histogram](img/cus-segments.png)
 
+- **Average RFM Score by Segment**
+     ![Average RFM Score by Segment](img/avg-rfm-by-segment.png)
 
 - **Median Recency by Segment**
      ![Median Recency](img/median-r-by-segment.png)
